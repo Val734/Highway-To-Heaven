@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HighwayToHeaven/scenes/Introduction.unity
+    guid: e46ae732c07a4db4daccf5644e01d3b7
+  - enabled: 1
+    path: Assets/HighwayToHeaven/scenes/MainMenu.unity
+    guid: 353325c3fdfd14a4e8ac00ed0168831d
+  - enabled: 1
+    path: Assets/HighwayToHeaven/scenes/MenuOptions.unity
+    guid: 0e1edff389a8a2e4d9d56434ce8c1952
+  - enabled: 1
+    path: Assets/HighwayToHeaven/scenes/Game.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/HighwayToHeaven/scenes/NewMode.unity
+    guid: f48d7d85913342241b39b2546dbdf83d
+  - enabled: 1
+    path: Assets/HighwayToHeaven/scenes/Credits.unity
+    guid: 00e664e2b68295446a0adab43e05814e
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 139d2686840f43b4bb3fc66f576388be, type: 2}
